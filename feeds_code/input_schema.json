@@ -1,0 +1,199 @@
+{
+   "schema_rename": {
+    "title": [
+     "long_description",
+     "Item Description",
+     "desc_prod"
+    ],
+    "external_id": [
+     "gtin_code",
+     "ean",
+     "gfk_jan_code",
+     "UPC",
+     "UPC Code",
+     "gtin",
+     "ean1",
+     "ean2",
+     "ean3",
+     "ean4",
+     "ean5",
+     "ean6",
+     "barcode",
+     "EAN Master",
+     "EAN Retailer",
+     "jan_code",
+     "external id"
+    ],
+    "sku": [
+     "website sku",
+     "website_sku"
+    ],
+    "product_description": [
+     "feature",
+     "label",
+     "char_name",
+     "char_val"
+    ],
+    "bread_crumb1": [
+     "supergroup"
+    ],
+    "bread_crumb2": [
+     "product_group",
+     "euro_category"
+    ],
+    "bread_crumb3": [
+     "module"
+    ],
+    "remaining_bread_crumbs": [
+     "remaining_bread_crumbs"
+    ],
+    "brand_name": [
+     "brand_1",
+     "brand",
+     "Brand",
+     "nome_Marca",
+     "brand_name_kanji",
+     "Brand name",
+     "Brand_name",
+     "division"
+    ],
+    "manufacturer_name": [
+     "brand_owner_international",
+     "manufacturer_name_zenkaku",
+     "nome_Fabricante",
+     "manufacturer_name_kanji"
+    ],
+    "sales_date": [
+     "hitlist_month"
+    ],
+    "model": [
+     "series",
+     "Model",
+     "model number",
+     "series_name_kanji",
+     "Model number",
+     "model_number"
+    ],
+    "part_number": [
+     "mfg_part_number",
+     "acsiss_part_number",
+     "Part number"
+    ],
+    "item_package_quantity": [
+     "ipq",
+     "global_number_in_each_pack_actual",
+     "qty"
+    ],
+    "is_kvi": [
+     "is_kvi"
+    ],
+    "item_weight": [
+     "item_weight",
+     "weight"
+    ],
+    "size": ["size_name","size name"],
+    "is_pos_data": [
+     "is_pos,is_pos_data"
+    ],
+    "offering_availability": [
+     "offering_availability"
+    ],
+    "has_retail_offer": [
+     "has_retail_offer"
+    ],
+    "has_3p_offer": [
+     "has_3p_offer"
+    ],
+    "deprecated_our_price": [
+     "our_price"
+    ],
+    "color_name": [
+     "color",
+     "color_name_kanji"
+    ],
+    "url": [
+     "url"
+    ],
+    "brand_collection": [
+     "global_collection_claim"
+    ],
+    "substitute_brand": [
+     "global_brand_extension"
+    ],
+    "consolidated_pack_size": [
+     "global_number_in_multipack_actual"
+    ],
+    "pack_information": [
+     "pack_information"
+    ],
+    "sales_rank": [
+     "sales_units"
+    ],
+    "volume_discount_quantity_1": [
+     "unweighted_weekly_rate_of_sales_in_units"
+    ],
+    "volume_discount_price_2": [
+     "volume_discount_price_2"
+    ],
+    "volume_discount_quantity_2": [
+     "rate_of_sales_in_units_4w"
+    ],
+    "volume_discount_price_3": [
+     "volume_discount_price_3"
+    ],
+    "pos_gms": [
+     "amount",
+     "Dollars"
+    ],
+    "revenue": [
+     "Pesos",
+     "valor"
+    ],
+    "average_price": [
+     "average price"
+    ],
+    "pos_unit_price": [
+     "preco_unid",
+     "list_price",
+     "avg_unit_price",
+     "preco",
+     "preco_unid",
+     "aup",
+     "pos_unit_price"
+    ],
+    "units": [
+     "Units"
+    ],
+    "pos_units_sold": [
+     "quantidade",
+     "volume"
+    ],
+    "pos_currency": [
+     "currency"
+    ],
+    "pos_data_period": [
+     "date_range",
+     "date",
+     "time_period",
+     "date range",
+     "time period"
+    ],
+    "pos_clicks ": [
+     "clicks"
+    ],
+    "product_category": [
+     "file_category",
+     "Category",
+     "setor",
+     "nome_Cesta",
+     "mss_category_name"
+    ],
+    "product_subcategory": [
+     "sub_category",
+     "Sub Category",
+     "domain",
+     "nome_Categoria"
+    ]
+   },
+  "drop_schema": ["percentage_fat_content","penetration_","frequency_"]
+}

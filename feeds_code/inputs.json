@@ -1,0 +1,47 @@
+{
+    "marketplace": {
+                    "AU": ["http://www.google.com.au","AUD"],
+                    "SE": ["http://www.google.com.se","KR"],
+                    "SG": ["http://www.google.com.sg","SGD"],
+                    "JP": ["http://www.google.co.jp","JPY"],
+                    "DE": ["http://www.google.de","EUR"],
+                    "ES": ["http://www.google.es","EUR"],
+                    "IT": ["http://www.google.it","EUR"],
+                    "FR": ["http://www.google.fr","EUR"],
+                    "AE": ["http://www.google.ae","AED"],
+                    "TR": ["http://www.google.com.tr","TL"],
+                    "UK": ["http://www.google.co.uk","GBP"],
+                    "SA": ["http://www.google.com.sa","SAR"],
+                    "MX": ["http://www.google.com.mx","MXN"],
+                    "PL": ["http://www.google.com.pl","PLN"],
+                    "CA": ["http://www.google.ca","CAD"],
+                    "US": ["http://www.google.com","USD"],
+                    "BR": ["http://www.google.com.br","BRL"],
+                    "EG": ["http://www.google.com.eg","EGP"],
+                    "NL": ["http://www.google.nl", "EUR"]
+    },
+
+  "keywords": {
+            "external_id": ["upc", "ean", "gtin", "sku", "og:upc", "upccode", "product_upc", "isbn", "external ID",
+                            "barcode", "gfk_jan_code", "コード"],
+            "brand_name": ["brand", "brandname", "product-brand", "医薬系ブランド"],
+            "manufacturer_name": ["manufacturer", "mfr", "producer", "manufacturerName","manufacturer_name","manufacturer name", "manufacturer_name_zenkaku",
+                                  "メーカー"],
+            "model": ["model", "model no", "model#", "model id", "model number", "model name", "style number",
+                             "series"],
+            "part_number": ["part", "part number", "mpn", "Item number", "part no", "part #",
+                            "manufacturer part number", "mfg_part_number"],
+            "color_name": ["color", "colour", "product color", "color family", "Choose a color", "finish", "色", "白",
+                           "黒", "赤", "青", "緑", "紫", "黄色", "茶色", "金色", "銀色", "桃色", "灰色", "橙色", "水色", "紺色", "藍色", "藤色",
+                           "焦げ茶色", "山吹色", "黄土色", "黄緑", "深緑", "朱色", "茜色", "銅色", "青銅色", "無色", "透明", "淡い", "明るい", "鮮やか",
+                           "薄い", "濃い", "いろ", "しろ", "ホワイト", "くろ", "ブラック", "あか", "レッド", "あお", "ブルー", "みどり", "グリーン",
+                           "むらさき", "パープル", "きいろ", "イエロー", "ちゃいろ", "ブラウン", "きんいろ", "ゴールド", "ぎんいろ", "シルバー", "ももいろ", "ピンク",
+                           "はいいろ", "グレー", "だいだいいろ", "オレンジ", "みずいろ", "こんいろ", "あいいろ", "ふじいろ", "こげちゃいろ", "やまぶきいろ", "おうどいろ",
+                           "きみどり", "ふかみどり", "ダークグリーン", "ベージュ", "しゅいろ", "あかねいろ", "あかがねいろ", "せいどういろ", "ライラック", "ターコイズ",
+                           "むしょく", "カラフル", "とうめい", "あわい", "あかるい", "あざやか", "うすい", "こい"
+                           ],
+            "size": ["size", "product size", "Choose a size"],
+            "item_package_quantity": ["quantity", "package quantity", "pack size", "pieces", "packs", "packs of", "pks",
+                                      "contains", "carton pack", "Quanity in Set", "qty"]
+        }
+}
